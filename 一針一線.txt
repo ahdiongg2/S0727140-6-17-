@@ -1,0 +1,40 @@
+﻿﻿<!DOCTYPE html>
+<html lang="ZH-TW">
+<head>
+<title>一針一線</title>
+<meta charset="utf-8">
+<style>
+figure{
+  border-color:#0094ff;
+  text-align:center;
+  float:left;
+  size="5"
+ }
+</style>
+</head>
+<body background="布偶.jpg" bgcolor="#0000FF" text="#FFFF33">
+<table align="center" border="0"></table>
+<h1>一針一線</h1>
+  <a href="關於我們.html">我們故事<a/>
+  <a href="手工作品.html">手工作品<a/>
+  <a href="最新消息.html">最新消息<a/>
+  <a href="互動留言.html">互動留言<a/>
+<h3></h3>
+<figure>
+   <img src="一針一線.jpg" width="450" height="450">
+
+   <figcaption>一針一線 <p>手工造創 <p>布偶新生命 <p></figcaption>
+
+</figure>
+ 
+<p style="font-size:xx-large";"font-family:標楷體">一針一線</p> 
+<p style="font-size:xx-large";"font-family:標楷體">手工造創</p>
+<p style="font-size:xx-large";"font-family:標楷體">布偶新生命</p>
+
+
+
+
+
+
+</body>
+</html>

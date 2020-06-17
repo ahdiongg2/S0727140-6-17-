@@ -1,0 +1,46 @@
+﻿﻿<!DOCTYPE html>
+<html lang="ZH-TW">
+<head>
+<title></title>
+<meta charset="utf-8">
+<body background="布偶.jpg" bgcolor"#000093" text="#FFFF33">
+<table align="center" border="0"></table>
+
+<img src="關於我們.jpg"width="650" height="450">
+
+<a href="一針一線.html">首頁<a/>
+<a href="手工作品.html">手工作品"<a/>
+<a href="最新消息.html">最新消息<a/>
+<a href="互動留言.html">互動留言<a/>
+
+<p style="font-weight:600">設計理念：</p>
+<style="font-famile:微軟正黑體">
+<p style="font-weight:600">
+   一針一線意在用真誠實意的心設計品牌款式及功能用途產品，運用輪針､棒針､鉤針､縫針､剪刀<br>等工具透過巧妙的雙手一針一線鉤織縫製而成。</p>
+<p style="font-weight:600">
+   色彩偏多色系，在寒冬裡多色系視覺效果佳猶如暖暖的冬陽照耀般更顯溫馨，女性物品偏愛多<br>樣性色調所以會用段染線呈現多項作品搭配衣物更顯色。</p>
+<p style="font-weight:600">
+   編織小物時尚､禦寒､保暖､美觀雅緻､撫癒人心､實用性高，設計理念以花系列樣式呈現各式花<br>款型態千姿百媚之美的披肩､圍巾､圍脖､帽子､髮束､項鍊､胸針</p>
+<p style="font-weight:600">
+   現今大環境生活壓力大因而設計以療癒動物造型（療癒貓系列）多功能用途可作為安撫情緒的<br>玩偶亦可作為髮束､吊飾､胸針等轉移情緒壓力慰藉心靈。</p> 
+<p style="font-weight:600">
+<p style="font-weight:600">素材簡介：</p>
+   <p style="font-weight:600">
+             1.毛線：毛線中的段染線部分來至義大利其製造工序繁瑣價格高昂。</p>
+<p style="font-weight:600">
+             2.紙藤線：大致用來鉤織帽子､袋子等，優點：因涼爽遮陽效果佳。<br>
+                                                缺點：適水性不佳。</p>
+<p style="font-weight:600">
+             3.絨線：質地柔軟舒適觸感好效果十足。
+<p style="font-weight:600">
+             4.毛海：軟（暖）綿綿的素材心裡像被暖陽融化的感覺。
+<p style="font-weight:600">
+             5.棉線：以棉花揉捻製成質地較為堅硬可做袋子､髮束等小物。
+<p style="font-weight:600">
+             6.化學棉：填充物品用使其成型。
+   
+
+</style>
+</body>
+</head>
+</html>

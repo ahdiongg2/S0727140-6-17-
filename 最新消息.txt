@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+<html lang="ZH-TW">
+<head>
+<title></title>
+<meta charset="utf-8">
+<body background="布偶.jpg" bgcolor="#0000FF" text="#FFFF33">
+<h1>最新消息</h1>
+<a href="一針一線.html">首頁<a/>
+<a href="關於我們.html">關於我們<a/>
+<a href="手工作品.html">手工作品<a/>
+<a href="互動留言.html">互動留言<a/>
+<h3>正修時尚四甲畢業成果展</h3>
+<h4>
+<table boder="1">
+<tr>
+<th>logo</th>
+<th>海報</th>
+</tr>
+<tr>
+<td><img src="畢展logo.jpg"width="400" height="400"/>
+<td><img src="畢展海報.jpg"width="400" height="400"/>
+</tr>
+<tr>
+<td><img src="畢展期刊.jpg"width="400" height="400"/>
+<td><img src="模特假人.jpg"width="400" height="400"/>
+</tr>
+<h5>
+<table boder="1">
+<tr>
+<th>動物系列</th>
+<th>花系列  </th>
+</tr>
+<tr>
+<td><img src="動物系列.jpg"width="400" height="400"/>
+<td><img src="花系列.jpg"width="400" height="400"/>
+</tr>
+<td><img src="動物系列1.jpg"width="400" height="400"/>
+<td><img src="花系列1.jpg"width="400" height="400"/>
+</tr>
+<td><img src="動物系列2.jpg"width="400" height="400"/>
+<td><img src="花系列2.jpg"width="400" height="400"/>
+</tr>
+<td><img src="動物系列3.jpg"width="400" height="400"/>
+<td><img src="花系列3.jpg"width="400" height="400"/>
+</tr>
+<td><img src="動物系列4.jpg"width="400" height="400"/>
+<td><img src="花系列4.jpg"width="400" height="400"/>
+</tr>
+<td><img src="動物系列5.jpg"width="400" height="400"/>
+<td><img src="花系列5.jpg"width="400" height="400"/>
+</tr>
+<td><img src="動物系列6.jpg"width="400" height="400"/>
+<td><img src="花系列6.jpg"width="400" height="400"/>
+</tr>
+<td><img src="動物系列7.jpg"width="400" height="400"/>
+<td><img src="花系列7.jpg"width="400" height="400"/>
+</tr>
+<td><img src="花系列8.jpg"width="400" height="400"/>
+<td><img src="花系列9.jpg"width="400" height="400"/>
+</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</head>
+</html>
